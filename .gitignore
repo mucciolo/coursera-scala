@@ -1,0 +1,9 @@
+.idea/
+target/
+project/project/
+assignment.sbt
+StudentTasks.scala
+MOOCSettings.scala
+stackoverflow.csv
+atussum.csv
+wikipedia.dat
