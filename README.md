@@ -1,3 +1,1 @@
-# Scala studies
-
-Here you can find some Scala studies I did in the last years grouped by topic.
+My solutions to Functional Program Design in Scala, Parallel programming,, Big Data Analysis with Scala and Spark and Programming Reactive Systems Coursera's courses.
